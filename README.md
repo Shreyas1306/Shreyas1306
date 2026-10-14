@@ -15,7 +15,6 @@
 
 <p>
   <a href="https://github.com/Shreyas1306?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-18181b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
   <a href="mailto:shreyasshinde1306@gmail.com"><img src="https://img.shields.io/badge/Email-18181b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 </p>
 
@@ -94,12 +93,12 @@ A frontend e-commerce project built to practice UI development and web fundament
 </td>
 <td width="50%" valign="top">
 
-### 📚 LeetCode Solutions
-A growing collection of solutions for algorithmic problems and data-structure practice.
+### 🧠 Deep Learning Lab
+Coursework and experiments covering deep-learning concepts and practical implementation.
 
-**Focus:** C++ · DSA · Problem Solving
+**Focus:** Python · Deep Learning · Model Experiments
 
-<a href="https://github.com/Shreyas1306/Leetcode_Solutions">View repository →</a>
+<a href="https://github.com/Shreyas1306/Deep-Learning-Lab">View repository →</a>
 
 </td>
 </tr>
