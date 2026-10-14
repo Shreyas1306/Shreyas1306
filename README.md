@@ -106,25 +106,13 @@ Coursework and experiments covering deep-learning concepts and practical impleme
 
 ---
 
-## 📊 GitHub Overview
+## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreyas1306&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=93c5fd&include_all_commits=true" alt="GitHub stats"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Shreyas1306&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&include_all_commits=true&hide=issues,contribs" alt="GitHub statistics"/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Shreyas1306&theme=transparent&hide_border=true&background=0D1117&ring=93C5FD&fire=93C5FD&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=6B7280" alt="GitHub contribution streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas1306&layout=compact&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af" alt="Most used languages"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas1306&bg_color=0d1117&color=9ca3af&line=93c5fd&point=e5e7eb&area=true&area_color=1e293b&hide_border=true" width="100%" alt="Contribution activity graph"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas1306&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&langs_count=6" alt="Most used languages"/>
 
 </div>
 
