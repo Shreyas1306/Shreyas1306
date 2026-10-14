@@ -1,21 +1,145 @@
-# 💫 About Me:
-🔭 I’m currently working on Deep Learning<br>👯 I’m looking to collaborate on Deep Learning Projects<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA and Deep Learning<br>
+<!--
+  Profile README for Shreyas1306
+  Repository: https://github.com/Shreyas1306/Shreyas1306
+-->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyasss._13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasshinde1306@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,45:171923,100:303744&text=SHREYAS%20SHINDE&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=CS%20%7C%20AI%20%7C%20BACKEND%20ENGINEERING&descAlignY=57&descSize=15" width="100%" alt="Shreyas Shinde profile banner"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shreyas1306&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Shreyas1306&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyas1306&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/Shreyas1306">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=E5E7EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreyas+%F0%9F%91%8B;Building+things+that+solve+real+problems;CS-AI+student+%7C+Developer+%7C+Learner" alt="Typing introduction"/>
+</a>
+
+<p>
+  <a href="https://github.com/Shreyas1306?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-18181b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="mailto:shreyasshinde1306@gmail.com"><img src="https://img.shields.io/badge/Email-18181b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shreyas1306&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm **Shreyas**, a Computer Science and Artificial Intelligence student at **Vishwakarma Institute of Technology, Pune**.
+
+- 🧠 Interested in **AI/ML, backend engineering, and practical software systems**.
+- 🛠️ Working with Python, C++, web technologies, and databases.
+- 🔍 Enjoy turning ideas into projects and understanding how systems work end to end.
+- 🎯 Currently strengthening problem-solving, software engineering fundamentals, and project quality.
+
+> *Build with intent. Learn continuously. Make the next version better.*
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&theme=dark" alt="C++, Python, Java, JavaScript, HTML and CSS" />
+
+**Web & Databases**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,flask&theme=dark" alt="React, Node.js, Express, MongoDB, MySQL and Flask" />
+
+**AI / ML & Tools**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git,github,vscode,docker&theme=dark" alt="TensorFlow, PyTorch, OpenCV, Git, GitHub, VS Code and Docker" />
+
+</div>
+
+---
+
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🪪 Video ID Document Verification
+A computer-vision project exploring video-based identity/document verification workflows.
+
+**Focus:** Python · Computer Vision · ML
+
+<a href="https://github.com/Shreyas1306/Video-ID-Document-Verification">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 Handwritten Equation Solver
+A project focused on recognizing handwritten mathematical expressions and solving them computationally.
+
+**Focus:** Python · Deep Learning · OCR
+
+<a href="https://github.com/Shreyas1306/handwritten-equation-solver">View repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ E-Commerce Website
+A frontend e-commerce project built to practice UI development and web fundamentals.
+
+**Focus:** HTML · CSS · JavaScript
+
+<a href="https://github.com/Shreyas1306/E-Commerce-FD-CP">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 LeetCode Solutions
+A growing collection of solutions for algorithmic problems and data-structure practice.
+
+**Focus:** C++ · DSA · Problem Solving
+
+<a href="https://github.com/Shreyas1306/Leetcode_Solutions">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreyas1306&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=93c5fd&include_all_commits=true" alt="GitHub stats"/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=Shreyas1306&theme=transparent&hide_border=true&background=0D1117&ring=93C5FD&fire=93C5FD&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=6B7280" alt="GitHub contribution streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas1306&layout=compact&hide_border=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af" alt="Most used languages"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas1306&bg_color=0d1117&color=9ca3af&line=93c5fd&point=e5e7eb&area=true&area_color=1e293b&hide_border=true" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="mailto:shreyasshinde1306@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-18181b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Shreyas"/></a>
+<a href="https://github.com/Shreyas1306"><img src="https://img.shields.io/badge/GitHub-Follow-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:303744,100:09090f" width="100%" alt="Decorative footer"/>
+
+</div>
