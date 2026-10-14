@@ -106,15 +106,9 @@ Coursework and experiments covering deep-learning concepts and practical impleme
 
 ---
 
-## GitHub
+## Activity
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Shreyas1306&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&include_all_commits=true&hide=issues,contribs" alt="GitHub statistics"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas1306&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&langs_count=6" alt="Most used languages"/>
-
-</div>
+I use GitHub's native contribution history for activity tracking, rather than embedding third-party statistics that may be cached or incomplete.
 
 ---
 
