@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,45:171923,100:303744&text=SHREYAS%20SHINDE&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=CS%20%7C%20AI%20%7C%20BACKEND%20ENGINEERING&descAlignY=57&descSize=15" width="100%" alt="Shreyas Shinde profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,45:171923,100:303744&text=SHREYAS%20SHINDE&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=CS%20%7C%20AI%20%&descAlignY=57&descSize=15" width="100%" alt="Shreyas Shinde profile banner"/>
 
 <br/>
 
